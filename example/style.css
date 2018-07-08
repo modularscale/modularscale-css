@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 200vh;
+    --ms-base: 1em;
+    --ms-ratio: 1.2;
+}
+
+h1 {
+    font-size: var(--ms3);
+}
+
+h2 {
+    font-size: var(--ms1);
+}
+
+p {
+    font-size: var(--ms0)
+}
